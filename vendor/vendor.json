@@ -1,0 +1,59 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "pjrfmwxpsR/8X6vkhU5uWkXC1oQ=",
+			"path": "github.com/hpcloud/tail",
+			"revision": "faf842bde7ed83bbc3c65a2c454fae39bc29a95f",
+			"revisionTime": "2017-02-07T02:33:46Z"
+		},
+		{
+			"checksumSHA1": "JQP5xDlFbFT+PZT8Yk70J5tchUE=",
+			"path": "github.com/hpcloud/tail/ratelimiter",
+			"revision": "faf842bde7ed83bbc3c65a2c454fae39bc29a95f",
+			"revisionTime": "2017-02-07T02:33:46Z"
+		},
+		{
+			"checksumSHA1": "0xM336Lb25URO/1W1/CtGoRygVU=",
+			"path": "github.com/hpcloud/tail/util",
+			"revision": "faf842bde7ed83bbc3c65a2c454fae39bc29a95f",
+			"revisionTime": "2017-02-07T02:33:46Z"
+		},
+		{
+			"checksumSHA1": "yl5hPKT5X6MwsiaaZgPNNxn0Y64=",
+			"path": "github.com/hpcloud/tail/watch",
+			"revision": "faf842bde7ed83bbc3c65a2c454fae39bc29a95f",
+			"revisionTime": "2017-02-07T02:33:46Z"
+		},
+		{
+			"checksumSHA1": "j65V4wnJboT4pfppNC/gjr2Gl+c=",
+			"path": "github.com/hpcloud/tail/winfile",
+			"revision": "faf842bde7ed83bbc3c65a2c454fae39bc29a95f",
+			"revisionTime": "2017-02-07T02:33:46Z"
+		},
+		{
+			"checksumSHA1": "0SIHiKpZ7earBAzuyvWOQv93Kgc=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "aaabbdc969c3935a2a7f61efac801e7163c73a2a",
+			"revisionTime": "2017-02-10T14:16:29Z"
+		},
+		{
+			"checksumSHA1": "eIhF+hmL/XZhzTiAwhLD0M65vlY=",
+			"path": "gopkg.in/fsnotify.v1",
+			"revision": "629574ca2a5df945712d3079857300b5e4da0236",
+			"revisionTime": "2016-10-11T02:33:12Z"
+		},
+		{
+			"checksumSHA1": "TO8baX+t1Qs7EmOYth80MkbKzFo=",
+			"path": "gopkg.in/tomb.v1",
+			"revision": "dd632973f1e7218eb1089048e0798ec9ae7dceb8",
+			"revisionTime": "2014-10-24T13:56:13Z"
+		},
+		{
+			"path": "https://github.com/hpcloud/tail",
+			"revision": ""
+		}
+	],
+	"rootPath": "github.com/valerykalashnikov/notytailer"
+}
